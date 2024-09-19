@@ -1,0 +1,3 @@
+In the terminal
+@ npx create-react-app .
+@ npm start

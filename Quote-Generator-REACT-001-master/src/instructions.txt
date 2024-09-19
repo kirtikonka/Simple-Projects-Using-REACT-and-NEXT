@@ -1,0 +1,5 @@
+#in the terminal
+
+npx create-react-app ./
+npm install --save axios
+npm start
